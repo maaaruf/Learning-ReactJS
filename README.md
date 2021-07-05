@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Description:
 
 An Example of Creating child functional and class components with use of state and props. 
 
