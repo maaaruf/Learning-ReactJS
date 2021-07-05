@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An Example of Creating child functional and class components with use of state and props. 
 
 ## Available Scripts
 
