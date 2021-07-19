@@ -31,11 +31,12 @@ class App extends Component {
       }
     ],
     currentProduct: null,
-    loadingIndicator: false
+    loadingIndicator: true
   };
 
   componentDidMount(){
-    this.showLoader(" App.js");
+    //this.showLoader(" App.js");
+    this.hideLoader("App.js");
   }
 
   componentWillUnmount(){
